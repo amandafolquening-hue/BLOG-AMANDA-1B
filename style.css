@@ -1,16 +1,21 @@
-.cabecalho{
+.cabecalho {
     background-color: rgb(5, 5, 32);
     color: aliceblue;
     text-align: center;
     max-width: 800px;
+    margin: 0 auto;
+    paga
 }
 }
 
-.conteudo-principal{
-    background-color: rgb(228, 61, 247);
-    color: black;
-    
+.conteudo-principal-texto {
+    background-color: rgb(32, 3, 36);
+    color: rgb(238, 24, 24);
 
-    }
-    
-    
+
+}
+
+.imagem-principal {
+    width: 350px;
+    height: 180px;
+}
