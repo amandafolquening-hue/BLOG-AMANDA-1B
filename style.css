@@ -1,23 +1,28 @@
 .cabecalho {
     background-color: rgb(5, 5, 32);
-    color: rgb(204, 38, 176);
+    color: rgb(243, 231, 241);
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-    paga
+    padding: 16px;
 }
-}
+
 
 .conteudo-principal {
-    background-color: ;
+    background-color: rgb(22, 22, 66);
     color: rgb(224, 35, 35);
-
-
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 
+
+
+
 .imagem-principal {
-    width: 350px;
-    height: 180px;
+    width: 600px;
+    height: 300px;
+    
 }
 
 .cabecalho-paragrafo {
@@ -29,6 +34,7 @@
     text-decoration: italic;
 }
 
-.conteudo-principal-texto{
+.conteudo-principal-texto {
     font-weight: bold;
+
 }
