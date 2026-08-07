@@ -14,14 +14,17 @@
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
+    display: flex;
+    justify-content:   space-between;
+    
 }
 
 
 
 
 .imagem-principal {
-    width: 600px;
-    height: 300px;
+    width: 200px;
+    height: 100px;
     
 }
 
@@ -37,4 +40,11 @@
 .conteudo-principal-texto {
     font-weight: bold;
 
+}
+article {
+    border: 1px solid #e2c339;
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
+    flex: 1 1 25%;
 }
